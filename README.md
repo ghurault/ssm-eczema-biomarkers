@@ -1,6 +1,6 @@
 # Predicting eczema severity using serum biomarkers
 
-This repository contains the code for the article by [**Hurault et al. (preprint), "Can serum biomarkers predict the outcome of systemic therapy for atopic dermatitis?"**]().
+This repository contains the code for the article by [**Hurault et al. (preprint), "Can serum biomarkers predict the outcome of systemic therapy for atopic dermatitis?"**](https://doi.org/10.1101/2020.12.02.20242404).
 
 The code is written in the R language for statistical computing and the models using the probabilistic programming language [Stan](https://mc-stan.org/).
 
