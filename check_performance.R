@@ -248,5 +248,5 @@ plot_grid(p3 + theme(legend.position = "none"),
           nrow = 1, rel_widths = c(4, 3, 1), labels = c("A", "B", ""))
 if (FALSE) {
   ggsave(file.path("Plots", paste0(score, "_", "metric", "_metaperf.jpg")),
-         width = 13, height = 8, units = "cm", dpi = 300, scale = 2)
+         width = 21, height = 13, units = "cm", dpi = 400, scale = 1.5, bg = "white")
 }

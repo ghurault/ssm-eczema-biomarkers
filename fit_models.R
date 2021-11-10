@@ -222,6 +222,6 @@ if (FALSE) {
                                         }),
                       nrow = 2, labels = "AUTO"),
             nrow = 2, rel_heights = c(.1, .9))
-  # ggsave(file.path("Plots", paste0(score, "_PPC.jpg")), width = 30, height = 20, units = "cm", dpi = 300)
+  # ggsave(file.path("Plots", paste0(score, "_PPC.jpg")), width = 30, height = 20, units = "cm", dpi = 400, bg = "white")
   
 }
