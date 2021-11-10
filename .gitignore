@@ -38,5 +38,6 @@ vignettes/*.pdf
 # Results
 Models/*.rds
 Results/*
+Results
 Plots/*
 log.txt
